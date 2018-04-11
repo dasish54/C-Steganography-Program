@@ -1,0 +1,10 @@
+C:\Users\John\source\repos\StenographyDis\StenographyDis\bin\Debug\StenographyDis.exe.config
+C:\Users\John\source\repos\StenographyDis\StenographyDis\bin\Debug\StenographyDis.exe
+C:\Users\John\source\repos\StenographyDis\StenographyDis\bin\Debug\StenographyDis.pdb
+C:\Users\John\source\repos\StenographyDis\StenographyDis\obj\Debug\StenographyDis.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\StenographyDis\StenographyDis\obj\Debug\StenographyDis.Form1.resources
+C:\Users\John\source\repos\StenographyDis\StenographyDis\obj\Debug\StenographyDis.Properties.Resources.resources
+C:\Users\John\source\repos\StenographyDis\StenographyDis\obj\Debug\StenographyDis.csproj.GenerateResource.Cache
+C:\Users\John\source\repos\StenographyDis\StenographyDis\obj\Debug\StenographyDis.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\StenographyDis\StenographyDis\obj\Debug\StenographyDis.exe
+C:\Users\John\source\repos\StenographyDis\StenographyDis\obj\Debug\StenographyDis.pdb
